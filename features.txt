@@ -1,0 +1,25 @@
+1st Time
+
+-Sign-up/log-in(fb, google using APIs)/guest
+-App Language(No idea)
+-Profile(Dashboard) 
+-Language(Song LAnguage)
+-Playlist
+-Camera
+-Mood Selection
+-Play Song
+-Add playlist(optional)
+
+2nd or more Time:
+-Profile(Dashboard) 
+-Language(Song LAnguage)
+-Playlist(optional)
+-Camera
+-Mood Selection
+-Play Song
+-Add playlist(optional)
+
+-Category wise song seperation for new users
+
+
+
